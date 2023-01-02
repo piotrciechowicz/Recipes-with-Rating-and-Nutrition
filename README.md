@@ -1,4 +1,4 @@
-# recipes_with_rating_and_nutrition
+# Recipes with rating and nutrition
 
 A program for predicting the evaluation of a recipe based on the content of calories, protein, fat and sodium.
 
