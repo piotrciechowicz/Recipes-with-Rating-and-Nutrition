@@ -16,6 +16,7 @@ The best results were obtained for Random Forest Regressor.
 - matplotlib
 - seaborn
 - IPython.display
+- sklearn
 
 
 ## Contact
